@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+dbt/dbt_packages/
+dbt/.user.yml
+dbt/target/
+dbt/logs/
+.env
+__pycache__/
